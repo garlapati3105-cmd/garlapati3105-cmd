@@ -1,176 +1,164 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/v3/render?type=wave&color=gradient&customColorList=6A5ACD,7B68EE,9370DB,BA55D3&height=280&section=header&text=Garlapati%20Sai%20Kiran&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2200&pause=800&color=BA55D3&center=true&vCenter=true&width=680&lines=AI+Engineer+%7C+Building+Intelligent+Systems;Specializing+in+AI+Agents+%26+RAG;Full-Stack+Product+Engineer;Turning+Complexity+into+Clarity" alt="Typing SVG" />
+  
+  <br/><br/>
+  
+  <a href="https://myportfolio-gules-rho-25.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sai-kiran-garlapati/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:garlapati3105@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/garlapati3105-cmd">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=garlapati3105-cmd&label=Profile%20Views&color=2563EB&style=flat)
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35px" /> &nbsp;**Hey there! I'm**
-
-# Garlapati Saikiran
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Full-Stack+Developer;Builder+of+Agentic+AI+Systems;Hackathon+Winner+%F0%9F%8F%86;1st+Year+CSE+Student+%40+Aurora+University;Shipping+Real+AI+Tools%2C+Not+Just+Tutorials)](https://git.io/typing-svg)
-
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=garlapati3105-cmd&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/garlapati3105-cmd?label=Followers&color=8A2BE2&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/garlapati3105-cmd?label=Stars&color=8A2BE2&style=for-the-badge" />
 </div>
 
 ---
 
-## 🧠 About Me
+### 👋 About Me
 
-I'm **Saikiran** — a 1st year CSE student who builds **real AI-powered tools**, not just toy projects.
-I specialize in **agentic AI**, **automation workflows**, and **shipping full-stack web apps** that solve actual problems.
+**Software Engineering Student** at **Aurora University** (Class of 2029) with a strong focus on **Artificial Intelligence** and **enterprise-grade systems**.
 
-- 🤖 I build autonomous AI agents that self-correct and reason through problems
-- ⚡ I ship working projects, not just tutorials — check my pinned repos below
-- 🏆 **3rd Place — Murf AI Hackathon** (Voice Agent Challenge) — built InterviewAI
-- 🧠 Currently learning: Vector Search, LLMs, Agentic Workflows, RAG Systems
-- 🎯 Goal: Land a top AI/SWE internship before 2nd year
-- 📧 Reach me at: **garlapati3105@gmail.com**
-- 🌐 Portfolio: [myportfolio-gules-rho-25.vercel.app](https://myportfolio-gules-rho-25.vercel.app/)
+I build production-ready AI solutions combining **Large Language Models**, **Retrieval-Augmented Generation (RAG)**, **autonomous agents**, and modern full-stack architecture.
+
+**Open To**: AI Engineer roles, Research Internships, and Full-Stack AI Product opportunities (2026–2027).
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-### AI & Automation
-![OpenAI](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-2563EB?style=for-the-badge&logo=buffer&logoColor=white)
-![No-Code](https://img.shields.io/badge/No--Code_Dev-6C47FF?style=for-the-badge&logo=webflow&logoColor=white)
+**Backend & AI**  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini-8E75D9?logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Base44](https://img.shields.io/badge/Base44_No--Code-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+### 🤖 AI / ML Expertise
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Auto-Debug Agent
-> **Agentic AI · Python**
-
-An AI-powered autonomous code debugging tool that **analyzes, fixes, validates, and executes code in real-time** using a self-correcting reasoning loop — far beyond simple one-shot generation.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/garlapati3105-cmd/autodebug-agent)
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 Resume Builder
-> **React · Vite · CSS**
-
-Elegant, ATS-friendly resume builder with real-time preview and high-quality PDF export. **100% free, no sign-up required.** Deployed on Vercel.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/garlapati3105-cmd/resume-builder)
-[![Live](https://img.shields.io/badge/Vercel-Live_Demo-000000?style=flat-square&logo=vercel)](https://resume-builder-pi-green.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📰 AI News Summarizer
-> **Chrome Extension · Groq · LLaMA 3.3 70B**
-
-Instantly summarize any article, blog, or news page using **Groq AI**. Fast, free, and 100% private — no data sent to external servers.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/garlapati3105-cmd/Ai_news_summarizer)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎤 InterviewAI — Voice Interview Coach
-> **🏆 3rd Place — Murf AI Hackathon**
-
-Real-time **AI-powered mock interview platform** using voice as the primary interface. Helps students prepare for campus placements and internships.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/garlapati3105-cmd/InterviewAI)
-[![Hackathon](https://img.shields.io/badge/Murf_AI-Hackathon_Winner_🏆-FF6B35?style=flat-square)](https://github.com/garlapati3105-cmd/InterviewAI)
-
-</td>
-</tr>
-</table>
+| Domain                  | Proficiency | Key Technologies & Focus |
+|-------------------------|-------------|--------------------------|
+| AI Agents & MCP         | Advanced    | Autonomous agents, tool calling, memory systems |
+| RAG Systems             | Advanced    | Vector stores, hybrid search, context optimization |
+| Prompt Engineering      | Expert      | Chain-of-thought, ReAct, self-consistency |
+| Intelligent Automation  | Advanced    | n8n workflows, AI-powered debugging |
+| LLM Integration         | Advanced    | Gemini, OpenAI, function calling |
+| Full-Stack AI Products  | Advanced    | End-to-end intelligent applications |
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
+
+**RootCause-AI** — Intelligent Root Cause Analysis Agent  
+Autonomous AI agent that analyzes logs, traces, and code to identify root causes.  
+**Stack**: Python, FastAPI, Gemini + OpenAI, LangChain  
+[**Repository →**](https://github.com/garlapati3105-cmd/rootcause-ai)
+
+**RedRob Talent Intelligence Engine**  
+AI-powered platform for candidate analysis and talent matching using RAG.  
+**Stack**: Next.js, Supabase, Gemini API  
+[**Repository →**](https://github.com/garlapati3105-cmd/redrob-talent-intelligence-engine)
+
+**BenefitBridge AI**  
+Intelligent benefits recommendation engine with conversational RAG.  
+**Stack**: React, FastAPI, Supabase, OpenAI  
+[**Repository →**](https://github.com/garlapati3105-cmd/benefitbridge-ai)
+
+**AutoDebug Agent**  
+Autonomous debugging agent for codebases.  
+**Stack**: LangChain, Gemini, MCP patterns  
+[**Repository →**](https://github.com/garlapati3105-cmd/autodebug-agent)
+
+---
+
+### 🏆 Achievements
+
+- Top 5 – Embedding & Vector Search Project Recognition
+- NIAT Embedding Certificate
+- Neuroscience Workshop Certificate
+- Regular Hackathon Participant (2024–2025)
+
+---
+
+### 📜 Certifications
+
+- **NIAT** – Advanced Embedding Systems
+- **Neuroscience Workshop** – Cognitive AI Foundations
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=garlapati3105-cmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garlapati3105-cmd&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=garlapati3105-cmd&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=garlapati3105-cmd&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garlapati3105-cmd&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garlapati3105-cmd&layout=compact&theme=radical&hide_border=true" height="180" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏅 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=garlapati3105-cmd&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+![](https://github-profile-trophy.vercel.app/?username=garlapati3105-cmd&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true)
 
 ---
 
-## 🏅 Certifications
+### 🐍 Contribution Snake
 
-| Certificate | Issuer | Date |
-|---|---|---|
-| 🏅 Vector Search in Practice: Semantic Search with LLMs | NxtWave · NIAT Masterclass *(by Arpan Paul, Applied Scientist @ Amazon)* | May 2026 |
-| 🏅 AI Agents | NxtWave · CCBP / NIAT | 2025–2026 |
-| 🏅 No-Code Application Development with Base44 | NxtWave · NIAT | 2025–2026 |
+![Snake animation](https://github.com/garlapati3105-cmd/garlapati3105-cmd/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🤝 Let's Connect
+### 🎯 Current Focus (2025–2026)
 
-<div align="center">
+```yaml
+Learning:
+  - Advanced Agentic Systems
+  - Production RAG Evaluation
+  - Multi-Modal AI
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-gules-rho-25.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kiran-garlapati-795710397)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garlapati3105-cmd)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garlapati3105@gmail.com)
+Building:
+  - Enterprise AI Agent Platforms
 
-</div>
+Open To:
+  - AI Engineer roles
+  - Research internships
+  📫 Connect With Me
 
----
+Email: garlapati3105@gmail.com
+LinkedIn: Sai Kiran Garlapati
+Portfolio: myportfolio-gules-rho-25.vercel.app
 
-<div align="center">
 
-### 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/garlapati3105-cmd/garlapati3105-cmd/output/github-contribution-grid-snake.svg)
-
----
-
-*"I don't just learn AI — I build with it. Let's create something extraordinary."*
-
-⭐ **Star my repos if you find them useful!**
-
-</div>
+  <img src="https://capsule-render.vercel.app/v3/render?type=wave&#x26;color=gradient&#x26;customColorList=6A5ACD,7B68EE,9370DB,BA55D3&#x26;height=120&#x26;section=footer&#x26;text=%22Building%20intelligence%20that%20matters%22&#x26;fontSize=18&#x26;fontColor=ffffff">
